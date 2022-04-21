@@ -18,7 +18,7 @@ except ImportError:
 
 	os.system("pip2 install requests lolcat")
 
-	os.system("python2 Prime7878.py")
+	os.system("python2 fcpro.py")
 
 from os import system
 
